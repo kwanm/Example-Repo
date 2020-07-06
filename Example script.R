@@ -7,3 +7,8 @@ write.csv(x=CO2, file = "datafile.csv")
 #Doing some data analysis
 A<-1:10
 mean(A)
+
+median(A)
+
+b<-5:6
+#this was an important update
